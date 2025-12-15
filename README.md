@@ -2,7 +2,9 @@
 
 ## Dual-Rail Monetary Architecture, Deterrence, and the Digital Reserve Currency Fork
 File: USCBDC_Monetary_Theory.pdf
+
 **Shyla Marie A.**
+
 December 15, 2025
 
 ### Abstract
